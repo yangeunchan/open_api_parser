@@ -1,0 +1,8 @@
+
+
+logging:
+  level:
+    org.springframework.web.client: debug
+    org.hibernate.sql: debug
+    org.hibernate.type: trace
+    com.example.openapiproject.client: debug
